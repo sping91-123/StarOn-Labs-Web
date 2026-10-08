@@ -56,6 +56,13 @@ CNAME www  <GitHub 사용자명>.github.io
 
 ## Assets
 
+2026-10-08 회사 홈페이지를 제품 중심으로 개편했습니다. 회사 로고와 사업자 정보는 유지하고, 실제 제품 화면과 웹/Android 서비스 링크, 향후 Claude 도입 계획을 추가했습니다. 사용자 수나 투자·매출 실적은 표시하지 않습니다.
+
+- `src/assets/chartradar-home.png` - 로그인 없는 공개 홈 화면
+- `src/assets/chartradar-evidence.png` - 공개 홈의 차트·시간대별 근거 화면
+
+두 스크린샷은 2026-10-08 실제 `https://chartradar.kr/crypto/home`에서 캡처했습니다. 표시된 가격과 분석은 당시 자료이며 실시간 데이터가 아닙니다.
+
 사용자가 제공한 로고 이미지에서 심볼을 잘라 다음 자산을 생성했습니다.
 
 - `src/assets/staron-symbol.png`

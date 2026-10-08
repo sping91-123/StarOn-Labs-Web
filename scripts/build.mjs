@@ -16,6 +16,8 @@ const requiredFiles = [
   "assets/favicon-192.png",
   "assets/apple-touch-icon.png",
   "assets/og-image.png",
+  "assets/chartradar-home.png",
+  "assets/chartradar-evidence.png",
   "robots.txt",
   "sitemap.xml",
   "site.webmanifest",
